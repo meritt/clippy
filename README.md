@@ -1,3 +1,5 @@
+This is a Russian Version
+
 Clippy - Helping you copy text to your clipboard
 ================================================
 
